@@ -1,0 +1,6 @@
+order3,aa15,Rose,2,PFill, 100, 65.00
+order2,aa14,Rose,1,Fill, 100, 65.00
+order3,aa15,Rose,2,PFill, 100, 55.00
+order1,aa13,Rose,1,Fill, 100, 55.00
+
+Execution Time (microseconds): 12004
